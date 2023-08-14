@@ -1,4 +1,4 @@
-2) The code for finding sum of two numbers
+Question 2) The code for finding sum of two numbers
 
 #include<stdio.h>
 int main()
